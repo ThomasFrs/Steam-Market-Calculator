@@ -4,7 +4,7 @@ However, it is quite messy since it is my first real program made with Tkinter.\
 I have simplified three of the most common calculations made on the Steam Market.
 
 ## How To Use
-- Enter any value and press "Calculate" to get the output.\
+- Enter any value and press "Calculate" to get the output.
 - Clear the query fields with "C".
 
 ## Item Value Converter
