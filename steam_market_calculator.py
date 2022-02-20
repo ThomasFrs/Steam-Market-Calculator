@@ -40,7 +40,7 @@ class Calculator(Frame):
     # frame creation
     Frame.__init__(self)
     self.grid()
-    self.master.title("Steam Calculator")
+    self.master.title("Steam Market Calculator")
     self.master.resizable(0,0)
     #self.master.iconbitmap("stonk_icon.ico")
     self.main_frame = Frame(self, width=window_width, height=window_height)

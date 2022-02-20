@@ -1,4 +1,4 @@
-# Steam Calculator
+# Steam Market Calculator
 It is a small yet very useful program with a simple GUI made for calculations in the Steam Market.\
 However, it is quite messy since it is my first real program made with Tkinter.\
 I have simplified three of the most common calculations made on the Steam Market.
