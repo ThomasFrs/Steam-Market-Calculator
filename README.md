@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/thomasfrs/steam-market-calculator/total?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/thomasfrs/steam-market-calculator)
 # Steam Market Calculator
 It is a small yet very useful program with a simple GUI made for calculations in the Steam Market.\
 However, it is quite messy since it is my first real program made with Tkinter.\
